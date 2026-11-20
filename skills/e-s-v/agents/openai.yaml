@@ -1,0 +1,4 @@
+interface:
+  display_name: "E.S-V SKILL"
+  short_description: "从课程选材、逐点讲解到读图练习与间隔复习，按作答证据掌握知识"
+  default_prompt: "用 $e-s-v 帮我学这门课。先按主题列出可选资料和推荐理由。等我选定后，先给我开课导图，再开始第一讲。"
